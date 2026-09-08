@@ -1,0 +1,18 @@
+INITIAL BATTLEFIELD CONDITIONS (PART 1-B)
+Canvas Size: 10000.00 x 10000.00 | Total Path Points K: 2
+
+BATTLESHIP:
+Name: USS Iowa (BB-61)
+Max Speed: 654.00
+Max Range: 43600.00
+
+PATH POINTS:
+Point 1: (5216.0, 9739.0)
+Point 2: (8579.0, 4995.0)
+
+ESCORT SHIPS:
+ID	Type				X	Y	MinVel	MaxVel	MaxRange
+0	Matsu-class Destroyer    	4984.0	6149.0	77.0	573.8	33557.65
+1	Japanese Kaibokan        	3270.0	8491.0	90.0	650.2	43089.50
+2	F-class Escort Ship      	9423.0	8120.0	73.0	511.8	26702.29
+3	1936A-class Destroyer    	3648.0	3368.0	66.0	784.8	62784.00

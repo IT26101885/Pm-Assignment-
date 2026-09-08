@@ -1,0 +1,16 @@
+
+--- Step 1 at Position (5559.0, 4446.0) | Time: 0.0s ---
+[T=0.0s] E-Ship ID 0 fired! Added impact: 0.08 (Total: 0.08)
+[T=0.0s] E-Ship ID 2 fired! Added impact: 0.08 (Total: 0.16)
+[T=0.0s] E-Ship ID 3 fired! Added impact: 0.07 (Total: 0.23)
+[T=0.0s] Battleship destroyed E-Ship ID 2 (1936A-class Destroyer) -> Next B shot at T=20.0s
+[T=12.0s] E-Ship ID 0 fired! Added impact: 0.08 (Total: 0.31)
+[T=14.0s] E-Ship ID 3 fired! Added impact: 0.07 (Total: 0.38)
+[T=20.0s] Battleship destroyed E-Ship ID 0 (1936A-class Destroyer) -> Next B shot at T=40.0s
+[T=28.0s] E-Ship ID 3 fired! Added impact: 0.07 (Total: 0.45)
+[T=40.0s] Battleship destroyed E-Ship ID 3 (Matsu-class Destroyer) -> Next B shot at T=60.0s
+
+FINAL SUMMARY (PART 2-B):
+Battleship Status: SURVIVED
+Cumulative Impact Taken: 0.45 (45.0%)
+Total Simulation Time Elapsed: 60.0 seconds

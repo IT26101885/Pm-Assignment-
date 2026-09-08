@@ -1,0 +1,20 @@
+
+--- Step 1 at Position (8175.0, 8701.0) | Time: 0.0s ---
+E-Ship ID 0 attacked B! Added impact: 0.06 (Total: 0.06)
+E-Ship ID 1 attacked B! Added impact: 0.07 (Total: 0.13)
+E-Ship ID 2 attacked B! Added impact: 0.04 (Total: 0.17)
+E-Ship ID 4 attacked B! Added impact: 0.04 (Total: 0.21)
+Battleship Attack Sequence at Step 1:
+ -> Targeted & Destroyed E-Ship ID 0 (Type: Gabbiano-class Corvette) [Time: +20.0s]
+ -> Targeted & Destroyed E-Ship ID 4 (Type: Japanese Kaibokan) [Time: +20.0s]
+ -> Targeted & Destroyed E-Ship ID 1 (Type: Matsu-class Destroyer) [Time: +20.0s]
+ -> Targeted & Destroyed E-Ship ID 2 (Type: Japanese Kaibokan) [Time: +20.0s]
+ -> Targeted & Destroyed E-Ship ID 3 (Type: F-class Escort Ship) [Time: +20.0s]
+
+--- Step 2 at Position (6552.0, 3591.0) | Time: 100.0s ---
+Battleship Attack Sequence at Step 2:
+
+FINAL SUMMARY (PART 2-A):
+Battleship Status: SURVIVED
+Cumulative Impact Taken: 0.21 (21.0%)
+Total Simulation Time: 100.0 seconds

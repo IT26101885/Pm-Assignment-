@@ -1,0 +1,16 @@
+INITIAL BATTLEFIELD CONDITIONS
+Canvas Size: 10000.00 x 10000.00
+
+BATTLESHIP:
+Name: USS Iowa (BB-61)
+Position: (1548.00, 3979.00)
+Max Speed: 700.00
+Max Range: 49949.03
+
+ESCORT SHIPS:
+ID	Type				X	Y	MinVel	MaxVel	MinAngle	MaxAngle	MaxRange
+0	1936A-class Destroyer    	34.0	2988.0	65.0	840.0	19.0		39.0		71926.61
+1	Japanese Kaibokan        	3518.0	8616.0	58.0	585.8	10.0		80.0		34974.83
+2	F-class Escort Ship      	4049.0	2184.0	73.0	52.5	10.0		60.0		281.18
+3	Japanese Kaibokan        	5615.0	2477.0	69.0	171.5	10.0		80.0		2998.54
+4	F-class Escort Ship      	9528.0	4915.0	72.0	278.9	21.0		71.0		7930.88

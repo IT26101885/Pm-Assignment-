@@ -1,0 +1,9 @@
+INITIAL BATTLEFIELD CONDITIONS (PART 2-A)
+Battleship: USS Iowa (BB-61) | Firing Reload Time (T_B): 20.0 seconds
+
+ID	Type				X	Y	MaxVel	ImpactPower	MaxRange
+0	Gabbiano-class Corvette  	6663.0	9787.0	145.7	0.06		2163.67
+1	Matsu-class Destroyer    	2182.0	5592.0	417.4	0.07		17758.86
+2	Japanese Kaibokan        	3510.0	8064.0	346.5	0.04		12241.59
+3	F-class Escort Ship      	2988.0	4524.0	91.1	0.05		845.81
+4	Japanese Kaibokan        	9602.0	9289.0	330.4	0.04		11125.82

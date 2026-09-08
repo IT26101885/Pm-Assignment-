@@ -1,0 +1,10 @@
+INITIAL BATTLEFIELD CONDITIONS (PART 1-C)
+Canvas Size: 10000.00 x 10000.00
+
+BATTLESHIP:
+Name: USS Iowa (BB-61)
+Max Speed: 605.00
+Max Range: 37311.42
+
+ESCORT SHIPS:
+ID	Type				X	Y	MaxVel	ImpactPower	MaxRange

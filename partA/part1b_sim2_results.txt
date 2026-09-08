@@ -1,0 +1,4 @@
+--- Step 1 at Position (5216.0, 9739.0) [GUN NORMAL] ---
+Battleship SUNK at step 1 by Escort Ship ID 0
+
+Summary: B Sunk = YES, Total E Ships Destroyed = 0

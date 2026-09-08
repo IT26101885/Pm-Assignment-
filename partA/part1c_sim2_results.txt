@@ -1,0 +1,5 @@
+
+SUMMARY SIMULATION 2:
+Battleship Status: SURVIVED
+Final Cumulative Impact on Battleship: 0.00 (0.0%)
+Total E-Ships Destroyed: 0

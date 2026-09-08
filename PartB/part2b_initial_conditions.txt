@@ -1,0 +1,9 @@
+INITIAL BATTLEFIELD CONDITIONS (PART 2-B)
+Battleship: USS Iowa (BB-61) | Reload Time (T_B): 20.0s
+
+ID	Type				X	Y	MaxVel	ImpactPower	ReloadTime(T_E)	MaxRange
+0	1936A-class Destroyer    	6085.0	800.0	865.2	0.08		12.0s		76306.94
+1	F-class Escort Ship      	3168.0	5777.0	76.1	0.05		18.0s		590.80
+2	1936A-class Destroyer    	7658.0	4895.0	865.2	0.08		12.0s		76306.94
+3	Matsu-class Destroyer    	6841.0	7584.0	288.8	0.07		14.0s		8504.44
+4	Matsu-class Destroyer    	9034.0	920.0	76.6	0.07		14.0s		598.75

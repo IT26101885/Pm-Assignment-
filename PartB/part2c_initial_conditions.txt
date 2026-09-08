@@ -1,0 +1,9 @@
+INITIAL BATTLEFIELD CONDITIONS (PART 2-C)
+Battleship: USS Iowa (BB-61) | Reload Time (T_B): 20.0s
+
+ID	Type				X	Y	Speed	ImpactPower	ReloadTime	MaxRange
+0	Japanese Kaibokan        	3400.0	4482.0	7.1	0.04		20.0s		5.12
+1	Japanese Kaibokan        	7701.0	8016.0	87.2	0.04		20.0s		775.64
+2	Matsu-class Destroyer    	9390.0	3351.0	304.5	0.07		14.0s		9450.98
+3	F-class Escort Ship      	746.0	3009.0	422.4	0.05		18.0s		18188.60
+4	F-class Escort Ship      	8254.0	1967.0	498.1	0.05		18.0s		25291.90
